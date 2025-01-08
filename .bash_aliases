@@ -1,0 +1,7 @@
+alias s="./vendor/bin/sail"
+alias sa="s artisan"
+alias sud="s up -d"
+alias sdown="s down"
+alias upd="sudo apt update && sudo apt upgrade -y"
+alias fupd="flatpak update"
+alias sam="sa migrate"
